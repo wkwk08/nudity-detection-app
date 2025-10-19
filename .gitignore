@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+develop-eggs/
+.eggs/
+*.egg-info/
+wheels/
+*.whl
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+.flaskenv
+
+# Editor/IDE-specific files
+# Visual Studio Code
+.vscode/
+# PyCharm
+.idea/
